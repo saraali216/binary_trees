@@ -5,7 +5,7 @@
  * inorder traversal
  * @tree: a pointer to the node to check
  * @func: a pointer to a function to call for each node.
- ******The value in the node must be passed as a parameter to this function*****
+ ******The value in the node must be passed as a parameter to this function
  * Return: Nothing,If tree or func is NULL, do nothing
  */
 
